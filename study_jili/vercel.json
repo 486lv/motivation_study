@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/api/(.*)",
-      "destination": "/study_jili/api/index.py"
-    }
-  ]
-}
